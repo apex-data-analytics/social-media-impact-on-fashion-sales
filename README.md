@@ -13,14 +13,14 @@ To analyze social media performance data and recommend the most effective platfo
 📁 Dataset Description
 The dataset contains simulated real-world data on:
 Social media platforms (Facebook, Instagram, TikTok)
-Engagement rate
-Ad_spend
-Revenue
-Followers
-Business_size
-Location
-Business_Id
-posts
+Engagement rate,
+Ad_spend,
+Revenue,
+Followers,
+Business_size,
+Location,
+Business_Id,
+posts,
 Customer_growth
 
 🛠 Tools Used
