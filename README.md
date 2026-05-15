@@ -1,6 +1,6 @@
 **Which Social Media Platform Would Be Most Profitable for My Client’s Fashion Business?**
-**Project Overview**
 
+**Project Overview**
 This project analyzes social media platform performance to determine the most profitable platform for launching and scaling a fashion business.
 
 Using Power BI, I analyzed key business metrics including:
@@ -57,7 +57,7 @@ Connect With Me
 
 ## Dashboard Preview
 
-![Dashboard]("C:\Users\User\Pictures\PowerBI\fashion-dashboard.jpg")
+![Dashboard](fashion-dashboard.jpg)
 
 
 
