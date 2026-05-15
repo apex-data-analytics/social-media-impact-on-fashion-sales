@@ -53,7 +53,7 @@ I enjoy transforming raw data into actionable business insights that support str
 Connect With Me
 •	LinkedIn: [www.linkedin.com/in/chika-ekwebelem-14b1a124a]
 •	GitHub: [Insert Your GitHub URL]
-•	Portfolio: [Insert Portfolio Link]
+•	Portfolio: [(https://github.com/apex-data-analytics/social-media-impact-on-fashion-sales/tree/main)]
 
 
 
