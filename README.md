@@ -55,6 +55,10 @@ Connect With Me
 •	GitHub: [Insert Your GitHub URL]
 •	Portfolio: [(https://github.com/apex-data-analytics/social-media-impact-on-fashion-sales/tree/main)]
 
+## Dashboard Preview
+
+![Dashboard]("C:\Users\User\Pictures\PowerBI\fashion-dashboard.jpg")
+
 
 
 
