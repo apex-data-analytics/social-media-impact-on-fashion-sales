@@ -57,7 +57,7 @@ Connect With Me
 
 ## Dashboard Preview
 
-![Dashboard](fashion-dashboard)
+![Dashboard]("C:\Users\User\Pictures\PowerBI\fashion-dashboard.jpg")
 
 
 
