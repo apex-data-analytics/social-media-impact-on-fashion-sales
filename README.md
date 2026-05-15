@@ -1,44 +1,60 @@
-# social-media-impact-on-fashion-sales
-Capstone Project: Analyzing how social media platforms influence sales for a fashion business using Power BI
+**Which Social Media Platform Would Be Most Profitable for My Client’s Fashion Business?**
+**Project Overview**
 
-Project Title
-Analyzing the Influence of Social Media on Fashion Business Sales
+This project analyzes social media platform performance to determine the most profitable platform for launching and scaling a fashion business.
 
-Business Problem
-A fashion business owner wants to launch her business online but is unsure which social media platform will generate the highest sales and engagement.
-
-Project Objective
-To analyze social media performance data and recommend the most effective platform for launching and scaling a fashion business.
-
-📁 Dataset Description
-The dataset contains simulated real-world data on:
-Social media platforms (Facebook, Instagram, TikTok)
-Engagement rate,
-Ad_spend,
-Revenue,
-Followers,
-Business_size,
-Location,
-Business_Id,
-posts,
-Customer_growth
-
-🛠 Tools Used
-Power BI
-Excel (data cleaning & preparation)
-
-📈 Key Insights
-TikTok recorded the highest engagement rate
-Facebook generated the highest revenue
-Facebook showed stronger conversion efficiency
-
-✅ Recommendation
-Facebook is recommended as the primary platform for launching the fashion business, while TikTok should be used for awareness and traffic generation.
-
-📂 Files Included
-Power BI Dashboard (.pbix)
-Dataset (.csv)
-Dashboard screenshots
+Using Power BI, I analyzed key business metrics including:
+•	Total Revenue
+•	Estimated Profit
+•	Advertising Spend
+•	Revenue Per Follower
+•	Return on Ad Spend (ROAS)
+•	Engagement Rate
 
 
-Revenue generated
+The goal was to provide strategic recommendations to help the client make data-driven marketing and investment decisions.
+
+**Tools & Technologies Used**
+•	Power BI
+•	Microsoft Excel
+•	Data Cleaning
+•	Data Visualization
+•	Business Intelligence
+•	KPI Analysis
+
+**Key Business Insights**
+•	Facebook Was the Most Profitable Platform
+•	Facebook generated the highest estimated profit, making it the strongest platform for revenue generation and customer conversion.
+•	Instagram Delivered the Best Advertising Efficiency
+•	Instagram recorded the highest Return on Ad Spend (ROAS), showing strong advertising performance.
+•	TikTok Recorded the Highest Engagement Rate
+•	TikTok outperformed other platforms in audience engagement and interaction.
+•	Twitter Generated the Highest Revenue Per Follower
+•	Twitter demonstrated strong monetization efficiency compared to the other platforms.
+
+
+**Business Recommendation**
+A combined strategy using:
+•	Facebook for profitability
+•	Instagram for efficient advertising
+•	TikTok for engagement and audience growth
+would provide the strongest digital marketing approach for the client’s fashion business.
+
+**About Me**
+I am a Data Analyst skilled in:
+•	Power BI
+•	Excel
+•	SQL
+•	Python
+•	Data Visualization
+•	Business Intelligence
+I enjoy transforming raw data into actionable business insights that support strategic decision-making.
+
+Connect With Me
+•	LinkedIn: [www.linkedin.com/in/chika-ekwebelem-14b1a124a]
+•	GitHub: [Insert Your GitHub URL]
+•	Portfolio: [Insert Portfolio Link]
+
+
+
+
